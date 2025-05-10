@@ -20,7 +20,7 @@ How to start this project:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repository/todo-app.git
+   git clone the project
    ```
 2. **Navigate to the project directory**
 ```bash
